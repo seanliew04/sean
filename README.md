@@ -28,9 +28,9 @@
 - Delete their account.
 - Edit account settings.
 
-| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
-| -------| -------| -------|
-| Email: supertayergt15@gmail.com 
+| Admin Dashboard | 
+| -------|
+| id: abc
 | Password: 123 l
 | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/admin_dashboard.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/doctor_dashboard.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/patient_dashboard.png) |
 
