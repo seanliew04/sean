@@ -31,7 +31,7 @@
 | Admin Dashboard | 
 | -------|
 | id: abc
-| Password: 123 l
+| Password: 123 
 | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/admin_dashboard.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/doctor_dashboard.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/patient_dashboard.png) |
 
 -----------------------------------------------
