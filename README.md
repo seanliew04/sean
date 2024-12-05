@@ -45,11 +45,6 @@
 6. Import the provided SQL file. The file is known as DATABASE clinic_appointments.sql located inside the source code root folder.
 7. Browse the Clinic Appointment System in a browser. i.e. http://localhost/clinic-appointment-system/.
 
-## Screenshots
-
-| ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot1.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot2.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot3.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot4.png) |
-|--------------| --------------|   --------------|  --------------|    
-|  ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot5.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot6.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot7.png) | ![](https://github.com/seanliew04/clinic-appointment-system/blob/main/Screenshots/screenshot8.png) |
 
 # The Project was developed using the following:
 
