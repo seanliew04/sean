@@ -6,26 +6,14 @@
 
 ### Admin
   
-- Add, edit, and delete doctor details.
-- Schedule new doctor sessions and remove sessions.
-- View patient details.
+- Add, and delete doctor details.
 - View patient bookings.
-
-### Doctors
-
-- View their appointments.
-- View their scheduled sessions.
-- View patient details.
-- Delete their account.
-- Edit account settings.
 
 ### Patients (Clients)
   
 - Make appointments online.
-- Create accounts themselves.
-- View their old bookings.
-- Delete their account.
-- Edit account settings.
+- View Doctors List
+- View Clinic service
 
 | Admin Dashboard | 
 | -------|
