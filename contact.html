@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to shared CSS -->
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+
+    <nav>
+        <a href="mainpage.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="booking.php">Booking</a>
+        <a href="test.html">Branches</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <div class="container">
+        <div class="card">
+            <h2>Contact Information</h2>
+            <p><strong>Email:</strong> supertayergt15@gmail.com</p>
+            <p><strong>Phone:</strong> +123 456 7890</p>
+            <h3>Send us a message</h3>
+            <form id="contactForm" action="send_message.php" method="POST">
+                <div class="form-group">
+                    <label for="name">Your Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Your Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Your Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Send Message</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 Clinic Appointment System. All rights reserved.</p>
+    </footer>
+
+    
+</body>
+</html>
